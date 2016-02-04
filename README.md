@@ -18,4 +18,4 @@
 ## Use it in weechat
 
     [__th0m(i)] /script load /tmp/circonflexmeup.py
-    [__th0m(i)] /ccflx Phrase à accentuer circonflexement
+    [__th0m(i)] /ccflx Phrase a accentuer circonflexement
